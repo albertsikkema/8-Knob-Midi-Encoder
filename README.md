@@ -5,11 +5,11 @@ Midicontroller for Ableton (or something else) with 8 rotational encoders and 8 
 - Figure out what pins connect to what
 - Solder it all together
 - Load this ino file
-- And follow the steps in'Use'
+- And follow the steps below
 - Have fun
 
 # Use
-- Follow this procedure: https://help.ableton.com/hc/en-us/articles/206240184-Creating-your-own-Control-Surface-script
+- Follow this procedure: https://help.ableton.com/hc/en-us/articles/206240184-Creating-your-own-Control-Surface-script, create your own UserConfiguration.txt or use the included one.
 
 - For settings see the included UserConfiguration.txt
 
