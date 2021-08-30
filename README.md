@@ -1,5 +1,12 @@
 # 8-Knob-Midi-Encoder
-Midicontroller for Ableton (or something else) with 8 rotational encoders and 8 momentary buttons, basend on a teensy LC
+Midicontroller for Ableton (or something else) with 8 rotational encoders and 8 momentary buttons, basend on a teensy LC.
+
+- Get a Teensy LC
+- Figure out what pins connect to what
+- Solder it all together
+- Load this ino file
+- And follow the steps in'Use'
+- Have fun
 
 # Use
 - Follow this procedure: https://help.ableton.com/hc/en-us/articles/206240184-Creating-your-own-Control-Surface-script
