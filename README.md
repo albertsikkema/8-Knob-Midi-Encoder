@@ -1,5 +1,5 @@
 # 8-Knob-Midi-Encoder
-Midicontroller for Ableton (or something else) with 8 rotational encoders and 8 momentary buttons, basend on a teensy LC.
+Midicontroller for Ableton (or something else) with 8 rotational encoders and 8 momentary buttons, based on a Teensy LC.
 
 - Get a Teensy LC
 - Figure out what pins connect to what
